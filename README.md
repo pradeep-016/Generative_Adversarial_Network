@@ -18,7 +18,7 @@ Over time, both networks improve and refine their abilities. The generator becom
 
 To run the AI art generator on your local machine, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/your-username/ai-art-generator.git`
+1. Clone this repository: `git clone https://github.com/pradeep-016/Generative_Adversarial_Network.git`
 2. Install the necessary dependencies: `pip install -r requirements.txt`
 3. Download the pre-trained GAN model weights!
 4. Run the generator script: `Colab Workspace`
