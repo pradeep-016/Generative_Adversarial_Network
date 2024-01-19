@@ -43,9 +43,6 @@ The Generated images are available in Output folder!
 
 Contributions are welcome! If you have any ideas, bug fixes, or improvements, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Acknowledgements
 
@@ -53,6 +50,6 @@ We would like to acknowledge the contributions of the open-source community and 
 
 ## Contact
 
-For any questions or inquiries, please reach out to [email protected]
+For any questions or inquiries, please reach out to [pradeep02272002@gmail.com]
 
 Happy generating!
